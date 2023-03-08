@@ -1,2 +1,2 @@
-# Color.Maker
+# ColorMaker
 
